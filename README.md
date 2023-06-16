@@ -11,4 +11,8 @@ Ao selecionar uma poção, o aplicativo exibe a receita completa, indicando todo
 Nossa intenção ao criar esse aplicativo foi ajudar a comunidade de jogadores de Minecraft a aproveitar ao máximo o sistema de poções do jogo, sem a necessidade de pesquisar constantemente na internet ou recorrer a guias extensos. Com esse aplicativo, a criação de poções se torna um processo descomplicado e divertido.
 
 
- 
+ ## Imagens do app
+
+ ![image](https://github.com/victortupinamba/ProjetoApp/assets/101647391/bfd75695-918b-423d-b039-22c51d23ebe1)
+
+![image](https://github.com/victortupinamba/ProjetoApp/assets/101647391/b2a8c8a7-4958-4cc3-8310-f1a8a84874d8)
