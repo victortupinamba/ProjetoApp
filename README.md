@@ -13,6 +13,21 @@ Nossa intenção ao criar esse aplicativo foi ajudar a comunidade de jogadores d
 
  ## Imagens do app
 
- ![image](https://github.com/victortupinamba/ProjetoApp/assets/101647391/bfd75695-918b-423d-b039-22c51d23ebe1)
+![image](https://github.com/victortupinamba/ProjetoApp/assets/101647391/2a0e1fff-6310-4d4d-b274-981a1c2f4a3e)
+
 
 ![image](https://github.com/victortupinamba/ProjetoApp/assets/101647391/b2a8c8a7-4958-4cc3-8310-f1a8a84874d8)
+
+
+![image](https://github.com/victortupinamba/ProjetoApp/assets/101647391/d1769958-4a35-48b1-b4fc-2277785d599d)
+
+![image](https://github.com/victortupinamba/ProjetoApp/assets/101647391/dcb5dbf8-d331-4f3d-8013-e0a866281f90)
+
+![image](https://github.com/victortupinamba/ProjetoApp/assets/101647391/331aba4a-2645-4c4c-aad4-c88ce3f788d6) 
+
+![image](https://github.com/victortupinamba/ProjetoApp/assets/101647391/01a461c9-379e-4e40-a48f-6f386538e18a)
+
+![image](https://github.com/victortupinamba/ProjetoApp/assets/101647391/0bc33b2f-3f84-4e2f-9c6a-bcb1db2bb156)
+
+
+
