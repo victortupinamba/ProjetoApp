@@ -1,5 +1,9 @@
 # ProjetoApp
 
+### Alunos
+Mariana Akemi Nunes Nakamura,
+Víctor Tupinambá Gomes da Silva
+
 ## Intuito do nosso aplicativo:
 
 Desenvolvemos um aplicativo com o objetivo de ser um guia prático para criar as cinco melhores poções no Minecraft. Sabendo que as poções são fundamentais para o progresso no jogo, pensamos em facilitar a vida de jogadores, assim como nós, que muitas vezes se confundem com as receitas e ingredientes necessários.
