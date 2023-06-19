@@ -35,3 +35,6 @@ Nossa intenção ao criar esse aplicativo foi ajudar a comunidade de jogadores d
 
 
 
+## Vídeo do app funcionando:
+
+https://youtu.be/iNKzf22ppOI 
